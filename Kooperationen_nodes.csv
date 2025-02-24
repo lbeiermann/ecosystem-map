@@ -1,0 +1,50 @@
+﻿id;title;size;status;group
+1;HSPV;3;schriftliche Vereinbarung;PlP
+2;HS Bremen;2;schriftliche Vereinbarung;PlP
+3;DFN;3;lose Kooperation;SP
+4;Stiftung Mercator;4;lose Kooperation;SP
+5;BSI;5;lose Kooperation;SP
+6;BMI;5;schriftliche Vereinbarung;SP
+7;Land Schleswig-Holstein;4;schriftliche Vereinbarung;SP
+8;FITKO;5;lose Kooperation;SP
+9;IT-Planungsrat;4;lose Kooperation;SP
+10;ITZBund;3;lose Kooperation;SP
+11;NExT e.V.;4;Mitgliedschaft;SP
+12;govdigital;3;Mitgliedschaft;SP
+13;Bitkom;2;lose Kooperation;SP
+14;OSBA;3;lose Kooperation;SP
+15;Sovereign Cloud Stack;4;lose Kooperation;SP
+16;GovStack;4;lose Kooperation;SP
+17;DigitalService;3;lose Kooperation;SP
+18;SPRIN-D;3;lose Kooperation;SP
+19;GovTechCampus;3;lose Kooperation;SP
+20;Sovereign Tech Agency;5;lose Kooperation;SP
+21;OpenForum Europe;4;lose Kooperation;SP
+22;EU OSPO Netzwerk;4;lose Kooperation;SP
+23;EU DG DIGIT;4;lose Kooperation;SP
+24;Vereinte Nationen;4;lose Kooperation;SP
+25;Universität Würzburg;2;lose Kooperation;KP
+26;TUM;2;lose Kooperation;KP
+27;Universität Bern;2;lose Kooperation;KP
+28;Gesellschaft für Informatik;2;lose Kooperation;KP
+29;FSFE;2;lose Kooperation;SP
+30;Linux Foundation;2;lose Kooperation;SP
+31;Stadt München;3;lose Kooperation;PlP
+32;Stadt Dortmund;3;lose Kooperation;PlP
+33;Berlin;3;lose Kooperation;PlP
+34;KGSt;4;lose Kooperation;SP
+35;KERN UX;4;lose Kooperation;PlP
+36;RUB;4;lose Kooperation;PlP
+37;Hersteller;5;schriftliche Vereinbarung;PrP
+38;DINUM;5;schriftliche Vereinbarung;SP
+39;Innenministerium NL;5;schriftliche Vereinbarung;SP
+40;Dataport;3;schriftliche Vereinbarung;PrP
+41;govdigital;3;schriftliche Vereinbarung;PrP
+42;OSK Berlin;3;schriftliche Vereinbarung;PrP
+43;BWI;4;schriftliche Vereinbarung;SP
+44;RKI;4;schriftliche Vereinbarung;PrP
+45;KDO;3;schriftliche Vereinbarung;PrP
+46;Plattformpartner;6;na;PlP
+47;Strategischer Partner;6;na;SP
+48;Knowledge Partner;6;na;KP
+49;Produktpartner;6;na;PrP
